@@ -310,6 +310,45 @@ b:hover{
     border-radius: 4px; 
 }
 
+/* Servlet */
+.introduction_Servlet>h2{
+    margin: 0px;
+    font-family: 'Kiwi Maru', serif;
+    font-size: 35px;
+}
+
+.value-menu_Servlet {
+    font-family: 'Kiwi Maru', serif;
+    font-size: 35px;
+    margin: 30px 100px;
+}
+
+.value-section_Servlet {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    margin: 100px 150px;
+    margin-top: 20px;
+}
+
+.highlight_Servlet1 {
+    color: whitesmoke;
+    -webkit-text-stroke: 1px black;
+    transition: none;
+}
+
+.highlight_Servlet1:hover {
+    background-color: bisque;
+    transition: none;
+}
+.b_Servlet {
+    text-decoration: none;
+    color: #FFFFE9;
+    font-size: 50px;
+}
+
+
 /* RESUME */
 
 .resme-simple-section{
